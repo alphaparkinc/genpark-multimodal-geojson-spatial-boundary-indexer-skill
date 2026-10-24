@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-geojson-spatial-boundary-indexer-skill",
+  "version": "1.0.0",
+  "description": "High-performance spatial geofencing engine verifying Point-in-Polygon containment and Haversine proximity routing",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["geojson", "spatial-indexer", "point-in-polygon", "haversine", "geofencing", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
